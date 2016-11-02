@@ -7,3 +7,6 @@ m
 f
 >>>>>>> feature1
 ok mm
+
+
+a bug
