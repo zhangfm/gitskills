@@ -6,4 +6,4 @@ m
 =======
 f
 >>>>>>> feature1
-mm
+ok mm
